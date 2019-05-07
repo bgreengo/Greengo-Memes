@@ -15,7 +15,7 @@ const photos = [
   { src: '/images/jobs.jpg' },
   { src: '/images/phone.jpg' },
   { src: '/images/oldie.png' },
-  { src: '/images/image.png' },
+  { src: '/images/thecloud.png' },
   { src: '/images/doubt.png' },
   { src: '/images/crying.png' },
   { src: '/images/sponge.png' },
